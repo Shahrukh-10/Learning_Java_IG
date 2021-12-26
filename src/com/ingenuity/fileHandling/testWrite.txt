@@ -1,0 +1,6 @@
+Hello world
+This is a txt file
+Main purpose of this file is to provide text to FileReader class
+happy hacking :)
+
+(+==+)
